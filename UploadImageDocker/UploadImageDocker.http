@@ -1,0 +1,6 @@
+@UploadImageDocker_HostAddress = http://localhost:5198
+
+GET {{UploadImageDocker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
